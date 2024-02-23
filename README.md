@@ -22,3 +22,5 @@
 
 
 Copyright (c) 2024 Reizy's Services Italy, All rights reserved.
+
+<script defer data-domain="malfunzionato.is-a.dev" src="https://analytics.is-a.dev/js/script.js"></script>
