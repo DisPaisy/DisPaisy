@@ -2,19 +2,3 @@
 
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=P0rc0D10&theme=discord"</a></p>
-
-
------ 
-<b>All the tools that i use</b>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,aws,azure,discord,ps,pr,bots,vscode,github,gmail,html,instagram,twitter" />
-  </a>
-</p>
-
-
------
-
-
